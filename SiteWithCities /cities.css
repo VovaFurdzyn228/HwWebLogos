@@ -1,0 +1,78 @@
+table{
+    width: 1300px;
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin-left: 50px;
+}
+
+td{
+    width: 1300px;
+    height: 40px;
+    border: 1px solid black;
+    vertical-align: middle;
+    text-align: center;
+    background: black;
+    background-color: yellow;
+}
+
+h1{
+    text-align: center;
+    font-size: 22px;
+}
+
+.cities{
+    margin-left: 610px;
+    margin-top: -300px;
+}
+
+h3{
+    position: static;
+    margin-top: 230px;
+    color: blue;
+}
+
+#location{
+    margin-top: 12px;
+}
+
+#relief{
+    margin-top: 12px;
+}
+
+#climate{
+    margin-top: 12px;
+}
+
+.lviv{
+    margin-left: 610px;
+    margin-top: -300px;
+}
+
+#symbolics{
+    margin-top: 12px;
+}
+
+.locationV{
+    margin-top: 12px;
+}
+
+.vinnytsia{
+    margin-left: 610px;
+    margin-top: -300px;
+}
+
+#climateV{
+    margin-top: 12px;
+}
+
+#nameV{
+    margin-top: 12px;
+}
+
+#historV{
+    margin-top: 12px;
+}
+
+#starV{
+    margin-top: 12px;
+}
