@@ -6,3 +6,7 @@ h1{
 h{
     font-size: 16px;
 }
+
+.textSpacing{
+    letter-spacing: 5px;
+}
